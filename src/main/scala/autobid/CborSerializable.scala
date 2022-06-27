@@ -1,0 +1,3 @@
+package autobid
+
+trait CborSerializable

@@ -1,0 +1,113 @@
+[
+  {
+    "id": "a8cfcb76-7f24-4420-a5ba-d46dd77bdffd",
+	"type": "newItem",
+    "name": "Bicycle",
+	"description": "Hot Wheels Child's Bicycle",
+	"timeOfAuction": 300
+  },
+  {
+    "id": "58e9b5fe-3fde-4a27-8e98-682e58a4a65d",
+	"type": "bid",
+    "name": "Alice",
+	"itemName": "Bicycle",
+    "item": "a8cfcb76-7f24-4420-a5ba-d46dd77bdffd", 
+    "startingBid": 50,
+	"maxBid": 80,
+	"bidIncrement": 3
+  },
+  {
+    "id": "85ce0c8f-da34-4587-8fde-94a57ff75ae1",
+	"type": "newItem",
+    "name": "Scooter",
+	"description": "Classic Vespa Scooter",
+	"timeOfAuction": 600
+  },
+  {
+    "id": "60252799-e5c1-4b99-9f43-4db4728e7854",
+	"type": "bid",
+    "name": "Aaron",
+	"itemName": "Bicycle",
+    "item": "a8cfcb76-7f24-4420-a5ba-d46dd77bdffd",
+    "startingBid": 60,
+	"maxBid": 82,
+	"bidIncrement": 2
+  },
+  {
+    "id": "58e9b5fe-3fde-4a27-8e98-682e58a4a65d",
+	"type": "bid",
+    "name": "Alice",
+	"itemName": "Scooter",
+    "item": "85ce0c8f-da34-4587-8fde-94a57ff75ae1",
+    "startingBid": 700,
+	"maxBid": 725,
+	"bidIncrement": 2
+  },
+  {
+    "id": "71889c03-ad40-4251-be90-61591a2f3894",
+	"type": "bid",
+    "name": "Amanda",
+	"itemName": "Bicycle",
+    "item": "a8cfcb76-7f24-4420-a5ba-d46dd77bdffd",
+    "startingBid": 55,
+	"maxBid": 85,
+	"bidIncrement": 5
+  },
+  {
+    "id": "046383dc-1348-4858-acb2-24080c5f255f",
+	"type": "newItem",
+    "name": "Boat",
+	"description": "Used Mastercraft Ski Boat",
+	"timeOfAuction": 2400
+  },
+  {
+    "id": "58e9b5fe-3fde-4a27-8e98-682e58a4a65d",
+	"type": "bid",
+    "name": "Alice",
+	"itemName": "Boat",
+    "item": "046383dc-1348-4858-acb2-24080c5f255f",
+    "startingBid": 2500,
+	"maxBid": 3000,
+	"bidIncrement": 500
+  },
+  {
+    "id": "60252799-e5c1-4b99-9f43-4db4728e7854",
+	"type": "bid",
+    "name": "Aaron",
+	"itemName": "Boat",
+    "item": "046383dc-1348-4858-acb2-24080c5f255f",
+    "startingBid": 2800,
+	"maxBid": 3100,
+	"bidIncrement": 201
+  },
+  {
+    "id": "60252799-e5c1-4b99-9f43-4db4728e7854",
+	"type": "bid",
+    "name": "Aaron",
+	"itemName": "Scooter",
+    "item": "85ce0c8f-da34-4587-8fde-94a57ff75ae1",
+    "startingBid": 599,
+	"maxBid": 725,
+	"bidIncrement": 15
+  },
+  {
+    "id": "71889c03-ad40-4251-be90-61591a2f3894",
+	"type": "bid",
+    "name": "Amanda",
+	"itemName": "Scooter",
+    "item": "85ce0c8f-da34-4587-8fde-94a57ff75ae1",
+    "startingBid": 625,
+	"maxBid": 725,
+	"bidIncrement": 8
+  },
+  {
+    "id": "71889c03-ad40-4251-be90-61591a2f3894",
+	"type": "bid",
+    "name": "Amanda",
+	"itemName": "Boat",
+    "item": "046383dc-1348-4858-acb2-24080c5f255f",
+    "startingBid": 2501,
+	"maxBid": 3200,
+	"bidIncrement": 247
+  }
+]
